@@ -17,8 +17,8 @@ class StartQT4(QtGui.QMainWindow):
         minDiam = float(self.ui.lineEdit_3.text())
         maxDiam = float(self.ui.lineEdit_4.text())
 
-        minTensionN = maxTorque/maxDiam
-        maxTensionN = maxTorque/minDiam
+        minTensionN = maxTorque/ (maxDiam*0.5)
+        maxTensionN = maxTorque/ (minDiam*0.5)
 
         minTensionKG = minTensionN / 9.80665
         maxTensionKG = maxTensionN / 9.80665

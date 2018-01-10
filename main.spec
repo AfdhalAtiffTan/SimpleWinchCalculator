@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['D:\\AcademicRelated\\Y4S1\\FYP\\GUI\\WinchCalc'],
+             pathex=['D:\\AcademicRelated\\Y4S1\\FYP\\GUI\\SimpleWinchCalculator'],
              binaries=[],
              datas=[],
              hiddenimports=[],

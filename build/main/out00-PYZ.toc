@@ -1,4 +1,4 @@
-('D:\\AcademicRelated\\Y4S1\\FYP\\GUI\\WinchCalc\\build\\main\\out00-PYZ.pyz',
+('D:\\AcademicRelated\\Y4S1\\FYP\\GUI\\SimpleWinchCalculator\\build\\main\\out00-PYZ.pyz',
  [('os', 'c:\\python27\\lib\\os.py', 'PYMODULE'),
   ('copy_reg', 'c:\\python27\\lib\\copy_reg.py', 'PYMODULE'),
   ('types', 'c:\\python27\\lib\\types.py', 'PYMODULE'),
@@ -324,5 +324,5 @@
    'c:\\python27\\lib\\site-packages\\PyQt4\\__init__.py',
    'PYMODULE'),
   ('GUI',
-   'D:\\AcademicRelated\\Y4S1\\FYP\\GUI\\WinchCalc\\GUI.py',
+   'D:\\AcademicRelated\\Y4S1\\FYP\\GUI\\SimpleWinchCalculator\\GUI.py',
    'PYMODULE')])
